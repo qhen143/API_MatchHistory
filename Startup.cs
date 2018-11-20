@@ -30,7 +30,7 @@ namespace API_MatchHistory
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
 
             services.AddDbContext<MatchHistoryContext>(options =>
-                    options.UseSqlServer(Configuration.GetConnectionString("MatchHistoryContext")));
+                    options.UseSqlite(Configuration.GetConnectionString("MatchHistoryContext")));
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

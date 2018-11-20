@@ -3,7 +3,6 @@ C:\Users\hengq\source\repos\API_MatchHistory\API_MatchHistory\bin\Debug\netcorea
 C:\Users\hengq\source\repos\API_MatchHistory\API_MatchHistory\bin\Debug\netcoreapp2.1\API_MatchHistory.runtimeconfig.dev.json
 C:\Users\hengq\source\repos\API_MatchHistory\API_MatchHistory\bin\Debug\netcoreapp2.1\API_MatchHistory.dll
 C:\Users\hengq\source\repos\API_MatchHistory\API_MatchHistory\bin\Debug\netcoreapp2.1\API_MatchHistory.pdb
-C:\Users\hengq\source\repos\API_MatchHistory\API_MatchHistory\obj\Debug\netcoreapp2.1\API_MatchHistory.csprojAssemblyReference.cache
 C:\Users\hengq\source\repos\API_MatchHistory\API_MatchHistory\obj\Debug\netcoreapp2.1\API_MatchHistory.csproj.CoreCompileInputs.cache
 C:\Users\hengq\source\repos\API_MatchHistory\API_MatchHistory\obj\Debug\netcoreapp2.1\API_MatchHistory.RazorAssemblyInfo.cache
 C:\Users\hengq\source\repos\API_MatchHistory\API_MatchHistory\obj\Debug\netcoreapp2.1\API_MatchHistory.RazorAssemblyInfo.cs
@@ -12,3 +11,4 @@ C:\Users\hengq\source\repos\API_MatchHistory\API_MatchHistory\obj\Debug\netcorea
 C:\Users\hengq\source\repos\API_MatchHistory\API_MatchHistory\obj\Debug\netcoreapp2.1\API_MatchHistory.RazorTargetAssemblyInfo.cache
 C:\Users\hengq\source\repos\API_MatchHistory\API_MatchHistory\obj\Debug\netcoreapp2.1\API_MatchHistory.dll
 C:\Users\hengq\source\repos\API_MatchHistory\API_MatchHistory\obj\Debug\netcoreapp2.1\API_MatchHistory.pdb
+C:\Users\hengq\source\repos\API_MatchHistory\API_MatchHistory\obj\Debug\netcoreapp2.1\API_MatchHistory.csprojAssemblyReference.cache
