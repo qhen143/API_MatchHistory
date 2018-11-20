@@ -121,5 +121,20 @@ namespace API_MatchHistory.Controllers
         {
             return _context.MatchHistoryItem.Any(e => e.Id == id);
         }
+
+        // GET: api/Meme/search
+        [Route("search/{parameter}")]
+        [HttpGet]
+        public async Task<List<MatchHistoryItem>> GetSearch([FromRoute] string parameter)
+        {
+            var memes = (from m in _context.MatchHistoryItem
+                         where (m.Home.Contains(parameter) || m.Opposition.Contains(parameter))
+                         select m);
+
+            var returned = await memes.ToListAsync();
+
+            return returned;
+        }
+
     }
 }
